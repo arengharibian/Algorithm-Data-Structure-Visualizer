@@ -1,4 +1,5 @@
 # ui/main_window.py
+# Main window for the algorithm visualizer application.
 import random
 from typing import Optional, Generator, List, Tuple
 
